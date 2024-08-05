@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+section {
+    width: 80%; /* Adjust this value as needed */
+    max-width: 1200px; /* Optional: set a maximum width */
+    margin: 0 auto; /* Centers the section horizontally */
+    padding: 20px; /* Optional: add some padding */
+}
