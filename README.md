@@ -6,8 +6,8 @@
 
 
 ## Education
- - M.S., Econometrics and Applied Statistics | The Babeș-Bolyai University at Cluj-Napoca (2024)
- - B.S., Finance and Banking | The Babeș-Bolyai University at Cluj-Napoca (2022)
+ - M.S., Econometrics and Applied Statistics at The Babeș-Bolyai University at Cluj-Napoca (2024)
+ - B.S., Finance and Banking at The Babeș-Bolyai University at Cluj-Napoca (2022)
 
 
 ## Work Experience
