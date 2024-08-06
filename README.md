@@ -34,7 +34,8 @@
 ## Projects
 ### Deciphering the Digital Pulse: Interpreting the Impact of Social Media Sentiment on 2020 U.S. Presidential Election Outcomes
 
-### COVID-19 detection using chest X-ray images: a multinomial logistic approach
+### [COVID-19 detection using chest X-ray images: a multinomial logistic approach](https://github.com/AlexStroila/covid-19_x-ray_detection)
+
 
 ### Seemingly unrelated regressions implementation in Python
 
